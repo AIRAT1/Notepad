@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="@string/pref_open_mode"
+        android:title="@string/open"
+        android:summary="@string/open_file_by_start_app"/>
+
+    <EditTextPreference
+        android:key="@string/pref_size"
+        android:title="@string/size_of_text"
+        android:summary="@string/set_new_size_of_text"
+        android:defaultValue="14"
+        android:dialogTitle="@string/enter_size_of_text"/>
+
+    <ListPreference
+        android:key="@string/pref_style"
+        android:title="@string/pref_style"
+        android:summary="@string/set_style"
+        android:defaultValue="1"
+        android:entries="@array/text_style"
+        android:entryValues="@array/text_style"
+        android:dialogTitle="@string/select_style"/>
+
+    <PreferenceScreen
+        android:key="@string/pref_color"
+        android:title="@string/color_of_the_text"
+        android:summary="@string/set_color_of_the_text">
+        <CheckBoxPreference
+            android:key="@string/pref_color_black"
+            android:title="@string/pref_color_black"
+            android:defaultValue="true"
+            android:summary="@string/set_black_color"/>
+        <CheckBoxPreference
+            android:key="@string/pref_color_red"
+            android:title="@string/pref_color_red"
+            android:summary="@string/set_red_color"/>
+        <CheckBoxPreference
+            android:key="@string/pref_color_green"
+            android:title="@string/pref_color_green"
+            android:summary="@string/set_green_color"/>
+        <CheckBoxPreference
+            android:key="@string/pref_color_blue"
+            android:title="@string/pref_color_blue"
+            android:summary="@string/set_blue_color"/>
+    </PreferenceScreen>
+
+</PreferenceScreen>

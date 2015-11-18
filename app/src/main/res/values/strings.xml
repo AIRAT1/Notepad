@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="write_something">Write something. When save this (press on three points top right) in menu telephone remember all your text and later can this reopen</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_open_mode">Open mode</string>
+    <string name="pref_color">Color</string>
+    <string name="pref_color_black">Color black</string>
+    <string name="pref_color_red">Color red</string>
+    <string name="pref_color_green">Color green</string>
+    <string name="pref_color_blue">Color blue</string>
+    <string name="pref_size">Size</string>
+    <string name="pref_style">Style</string>
+    <string name="pref_style_regular">Style regular</string>
+    <string name="pref_style_bold">Style bold</string>
+    <string name="pref_style_italic">Style italic</string>
+    <string name="open">Open</string>
+    <string name="open_file_by_start_app">Open file by start app</string>
+    <string name="size_of_text">Size of text</string>
+    <string name="set_new_size_of_text">Set new size of text</string>
+    <string name="enter_size_of_text">Enter size of text (from 10 to 32)</string>
+    <string name="set_style">Set_style</string>
+    <string name="select_style">Select style</string>
+    <string name="color_of_the_text">Color of the text</string>
+    <string name="set_color_of_the_text">Set color of the text</string>
+    <string name="set_black_color">Set black color</string>
+    <string name="set_red_color">Set red color</string>
+    <string name="set_green_color">Set green color</string>
+    <string name="set_blue_color">Set blue color</string>
+</resources>

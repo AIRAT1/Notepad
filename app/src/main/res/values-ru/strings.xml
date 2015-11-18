@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Блокнот</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="write_something">Напиши что нибудь. Если это сохранить в меню (нажав на три точки вверху справа), то телефон запомнит всё что было написано и потом сможет показать текст снова</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_open_mode">Режим открытия</string>
+    <string name="pref_color">Цвет</string>
+    <string name="pref_color_black">Чёрный цвет</string>
+    <string name="pref_color_red">Красный цвет</string>
+    <string name="pref_color_green">Зелёный цвет</string>
+    <string name="pref_color_blue">Синий цвет</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string name="open">Открыть</string>
+    <string name="open_file_by_start_app">Открывать файл при запуске приложения</string>
+    <string name="size_of_text">Размер шрифта</string>
+    <string name="set_new_size_of_text">Устанавливаем новый размер шрифта</string>
+    <string name="enter_size_of_text">Установите размер шрифта (от 10 до 32)</string>
+    <string name="set_style">Устанавливаем стиль для шрифта</string>
+    <string name="select_style">Выберите стиль для шрифта</string>
+    <string name="color_of_the_text">Цвет текста</string>
+    <string name="set_color_of_the_text">Устанавливаем цвет текста</string>
+    <string name="set_black_color">Устанавливаем чёрный цвет</string>
+    <string name="set_red_color">Устанавливаем красный цвет</string>
+    <string name="set_green_color">Устанавливаем зелёный цвет</string>
+    <string name="set_blue_color">Устанавливаем синий цвет</string>
+</resources>
